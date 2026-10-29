@@ -61,4 +61,4 @@ npm run csv   # regenerate CSV files
 
 ## License
 
-MIT © Seven O Ways
+MIT © Sevenoways Innovations Limited

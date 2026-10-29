@@ -20,7 +20,7 @@
     "prepare": "tsc"
   },
   "keywords": ["ireland", "irish", "counties", "bank holidays", "public holidays", "gaeltacht", "dataset"],
-  "author": "Seven O Ways",
+  "author": "Sevenoways Innovations Limited",
   "license": "MIT",
   "repository": {
     "type": "git",

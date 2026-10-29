@@ -9,7 +9,7 @@ Clean, dependency-free data about Ireland for developers:
 ## Install
 
 ```bash
-npm install github:sevenoways/ireland-data
+npm install ireland-data
 ```
 
 ## Usage

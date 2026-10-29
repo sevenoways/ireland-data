@@ -1,0 +1,35 @@
+{
+  "name": "ireland-data",
+  "version": "0.1.0",
+  "description": "Irish counties (with Irish names, provinces, Gaeltacht flags) and a bank holiday calculator. JSON, CSV and TypeScript.",
+  "type": "module",
+  "main": "./dist/src/index.js",
+  "types": "./dist/src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/src/index.d.ts",
+      "default": "./dist/src/index.js"
+    },
+    "./data/*": "./data/*"
+  },
+  "files": ["dist", "data"],
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test \"test/*.test.ts\"",
+    "csv": "node scripts/to-csv.ts",
+    "prepare": "tsc"
+  },
+  "keywords": ["ireland", "irish", "counties", "bank holidays", "public holidays", "gaeltacht", "dataset"],
+  "author": "Seven O Ways",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevenoways/ireland-data.git"
+  },
+  "engines": {
+    "node": ">=20.10"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0"
+  }
+}

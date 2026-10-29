@@ -1,0 +1,33 @@
+name,irish,province,jurisdiction,gaeltacht
+Carlow,Ceatharlach,Leinster,ROI,false
+Dublin,Baile Átha Cliath,Leinster,ROI,false
+Kildare,Cill Dara,Leinster,ROI,false
+Kilkenny,Cill Chainnigh,Leinster,ROI,false
+Laois,Laois,Leinster,ROI,false
+Longford,An Longfort,Leinster,ROI,false
+Louth,Lú,Leinster,ROI,false
+Meath,An Mhí,Leinster,ROI,true
+Offaly,Uíbh Fhailí,Leinster,ROI,false
+Westmeath,An Iarmhí,Leinster,ROI,false
+Wexford,Loch Garman,Leinster,ROI,false
+Wicklow,Cill Mhantáin,Leinster,ROI,false
+Clare,An Clár,Munster,ROI,false
+Cork,Corcaigh,Munster,ROI,true
+Kerry,Ciarraí,Munster,ROI,true
+Limerick,Luimneach,Munster,ROI,false
+Tipperary,Tiobraid Árann,Munster,ROI,false
+Waterford,Port Láirge,Munster,ROI,true
+Galway,Gaillimh,Connacht,ROI,true
+Leitrim,Liatroim,Connacht,ROI,false
+Mayo,Maigh Eo,Connacht,ROI,true
+Roscommon,Ros Comáin,Connacht,ROI,false
+Sligo,Sligeach,Connacht,ROI,false
+Cavan,An Cabhán,Ulster,ROI,false
+Donegal,Dún na nGall,Ulster,ROI,true
+Monaghan,Muineachán,Ulster,ROI,false
+Antrim,Aontroim,Ulster,NI,false
+Armagh,Ard Mhacha,Ulster,NI,false
+Down,An Dún,Ulster,NI,false
+Fermanagh,Fear Manach,Ulster,NI,false
+Londonderry,Doire,Ulster,NI,false
+Tyrone,Tír Eoghain,Ulster,NI,false
